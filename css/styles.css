@@ -14,14 +14,18 @@ nav,footer {
     background-image: url("../img/auto-shop-3.jpg");
     background-size: cover; 
     background-position: center center;
-    
+
 }
 
 main {
-    margin: 5.5rem;
+    margin: 5.5rem 0;
 }
 
 .heading-theme-color {
     color: #00509A;
     border-color: #00509A !important;
+}
+
+section {
+    margin: 6rem 0;
 }
