@@ -1,0 +1,10 @@
+#jumbotron-section {
+    height: 560px;
+    background-image: url("https://images.pexels.com/photos/4489794/pexels-photo-4489794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover; 
+    background-position: center center;
+}
+
+#carousel-slide-2 {
+    height: 610px;
+}
